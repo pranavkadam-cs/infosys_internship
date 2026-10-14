@@ -1,0 +1,26 @@
+warehouse_id,warehouse_name,city,state,region,capacity_units,warehouse_type,manager,operational_status,current_inventory,utilization_percentage
+WH001,Warehouse 001,Bhubaneswar,Odisha,East,56596,Fulfillment Center,Manager 001,Active,24685,43.6
+WH002,Warehouse 002,Raipur,Chhattisgarh,Central,93152,Cold Storage,Manager 002,Active,39738,42.7
+WH003,Warehouse 003,Indore,Madhya Pradesh,Central,24422,Fulfillment Center,Manager 003,Active,10096,41.3
+WH004,Warehouse 004,Noida,Uttar Pradesh,North,39638,Fulfillment Center,Manager 004,Active,21277,53.7
+WH005,Warehouse 005,Kochi,Kerala,South,57990,Cold Storage,Manager 005,Active,47739,82.3
+WH006,Warehouse 006,Patna,Bihar,East,80264,Regional Hub,Manager 006,Active,39620,49.4
+WH007,Warehouse 007,Noida,Uttar Pradesh,North,74756,Cold Storage,Manager 007,Active,36571,48.9
+WH008,Warehouse 008,Gurugram,Haryana,North,71285,Regional Hub,Manager 008,Active,52413,73.5
+WH009,Warehouse 009,Patna,Bihar,East,72553,Fulfillment Center,Manager 009,Active,29402,40.5
+WH010,Warehouse 010,Bengaluru,Karnataka,South,34029,Regional Hub,Manager 010,Active,18898,55.5
+WH011,Warehouse 011,Indore,Madhya Pradesh,Central,61851,Regional Hub,Manager 011,Active,32063,51.8
+WH012,Warehouse 012,Bhubaneswar,Odisha,East,67226,Distribution Center,Manager 012,Active,55997,83.3
+WH013,Warehouse 013,Hyderabad,Telangana,South,28384,Distribution Center,Manager 013,Active,18258,64.3
+WH014,Warehouse 014,Raipur,Chhattisgarh,Central,40089,Regional Hub,Manager 014,Active,28804,71.9
+WH015,Warehouse 015,Jaipur,Rajasthan,West,97926,Distribution Center,Manager 015,Active,41477,42.4
+WH016,Warehouse 016,Bhubaneswar,Odisha,East,43007,Regional Hub,Manager 016,Active,37824,87.9
+WH017,Warehouse 017,Kolkata,West Bengal,East,99359,Distribution Center,Manager 017,Active,53038,53.4
+WH018,Warehouse 018,Kochi,Kerala,South,77726,Fulfillment Center,Manager 018,Active,58520,75.3
+WH019,Warehouse 019,Gurugram,Haryana,North,73182,Cold Storage,Manager 019,Active,65435,89.4
+WH020,Warehouse 020,New Delhi,Delhi,North,47459,Distribution Center,Manager 020,Active,30370,64.0
+WH021,Warehouse 021,Bengaluru,Karnataka,South,75411,Cold Storage,Manager 021,Active,48210,63.9
+WH022,Warehouse 022,Patna,Bihar,East,12015,Distribution Center,Manager 022,Active,5008,41.7
+WH023,Warehouse 023,Patna,Bihar,East,97290,Regional Hub,Manager 023,Active,55694,57.2
+WH024,Warehouse 024,Bhubaneswar,Odisha,East,92082,Distribution Center,Manager 024,Active,76972,83.6
+WH025,Warehouse 025,Jaipur,Rajasthan,West,63901,Distribution Center,Manager 025,Active,27286,42.7

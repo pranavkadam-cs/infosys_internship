@@ -1,0 +1,41 @@
+carrier_id,carrier_name,transport_mode,fleet_size,avg_delivery_days,on_time_rate,cost_per_km,carrier_rating,carrier_status
+CAR001,Carrier 001,Air,350,1.9,95.1,39.64,4.2,Active
+CAR002,Carrier 002,Rail,331,2.8,88.5,22.49,3.2,Active
+CAR003,Carrier 003,Road,403,2.5,92.6,22.29,4.3,Active
+CAR004,Carrier 004,Road,61,1.5,79.6,35.42,4.8,Active
+CAR005,Carrier 005,Road,435,5.0,95.8,11.1,3.8,Active
+CAR006,Carrier 006,Road,453,2.7,95.5,19.92,4.8,Active
+CAR007,Carrier 007,Road,218,5.6,92.6,42.49,4.3,Active
+CAR008,Carrier 008,Road,11,4.8,97.2,24.65,3.5,Active
+CAR009,Carrier 009,Air,484,5.8,79.0,17.99,3.4,Active
+CAR010,Carrier 010,Road,138,7.9,82.9,25.63,3.5,Under Review
+CAR011,Carrier 011,Road,187,2.9,85.6,18.68,4.4,Active
+CAR012,Carrier 012,Road,173,5.8,81.3,36.43,4.2,Under Review
+CAR013,Carrier 013,Rail,362,6.9,95.1,39.47,4.0,Active
+CAR014,Carrier 014,Road,31,7.7,93.9,36.96,3.6,Active
+CAR015,Carrier 015,Road,378,5.5,94.2,13.51,4.7,Active
+CAR016,Carrier 016,Sea,236,2.4,84.1,20.43,3.6,Active
+CAR017,Carrier 017,Air,491,1.9,94.0,15.92,3.7,Active
+CAR018,Carrier 018,Rail,91,3.3,80.6,9.58,3.3,Active
+CAR019,Carrier 019,Sea,173,7.5,80.2,35.35,3.7,Active
+CAR020,Carrier 020,Road,386,5.0,90.3,23.85,4.8,Active
+CAR021,Carrier 021,Air,12,5.3,79.0,18.24,3.5,Active
+CAR022,Carrier 022,Road,181,5.5,97.7,19.38,3.5,Active
+CAR023,Carrier 023,Road,127,3.7,84.9,13.0,4.2,Under Review
+CAR024,Carrier 024,Sea,153,2.7,88.0,38.59,4.2,Active
+CAR025,Carrier 025,Road,261,7.7,95.1,13.33,3.5,Under Review
+CAR026,Carrier 026,Road,404,6.4,86.4,20.52,3.5,Under Review
+CAR027,Carrier 027,Road,275,4.8,87.0,8.27,3.4,Active
+CAR028,Carrier 028,Road,444,3.9,85.3,24.15,4.7,Active
+CAR029,Carrier 029,Road,179,4.6,85.4,21.13,4.3,Active
+CAR030,Carrier 030,Road,222,1.7,87.8,34.61,4.8,Active
+CAR031,Carrier 031,Sea,290,3.1,97.9,34.47,3.5,Active
+CAR032,Carrier 032,Road,236,3.1,97.7,9.43,4.0,Active
+CAR033,Carrier 033,Air,385,4.4,89.4,12.29,4.5,Active
+CAR034,Carrier 034,Road,271,3.0,87.6,41.47,3.6,Active
+CAR035,Carrier 035,Road,375,2.7,95.0,37.3,4.4,Active
+CAR036,Carrier 036,Road,264,6.5,92.3,22.41,4.0,Active
+CAR037,Carrier 037,Air,437,7.3,96.5,14.16,3.9,Active
+CAR038,Carrier 038,Road,17,1.9,93.3,17.65,4.3,Under Review
+CAR039,Carrier 039,Road,427,2.9,98.0,32.35,4.0,Active
+CAR040,Carrier 040,Road,50,6.5,96.6,42.98,4.6,Active
